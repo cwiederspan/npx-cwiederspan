@@ -36,14 +36,14 @@ const block2 = chalk.rgb(1,164,239)(block) + divider + chalk.rgb(255,185,1)(bloc
 const output = 
                block1 + newline + 
                block1 + chalk.rgb(21,102,191).bold('Chris Wiederspan') + newline + 
-               block1 + chalk.rgb(21,102,191)('Azure App Dev Specialist (TSP) | Southwest Region') + newline + 
+               block1 + chalk.rgb(21,102,191)('Azure App Dev Specialist | West Region') + newline + 
                block1 + newline + 
                //block1 + chalk.rgb(242,80,34)('-------------------------------------------------') + newline +
 
-               block2 + chalk.gray('www.chwieder@microsoft.com') + newline + 
-               block2 + chalk.gray('www.linkedin.com/in/cwiederspan') + newline +
-               block2 + chalk.gray('www.github.com/cwiederspan') + newline +
-               block2 + chalk.gray('www.twitter.com/wiederspan') + newline +
+               block2 + chalk.gray('chwieder@microsoft.com') + newline + 
+               block2 + chalk.gray('linkedin.com/in/cwiederspan') + newline +
+               block2 + chalk.gray('github.com/cwiederspan') + newline +
+               block2 + chalk.gray('twitter.com/wiederspan') + newline +
               //  block2 + newline +
 
                newline + 
